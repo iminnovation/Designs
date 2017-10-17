@@ -1,2 +1,2 @@
 # Designs
-Design Pattern Practice
+Design Pattern Practices
